@@ -13,9 +13,12 @@ website:
 
 format:
   html:
-    theme: solar
+    theme:
+      dark: solar
+      light: flatly
     css: styles.css
     toc: true
+    mainfont: serif
 
 
 
