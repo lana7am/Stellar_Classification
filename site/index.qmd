@@ -3,7 +3,9 @@ title: "Stellar Classification"
 ---
 
 ## Background
+The Stellar Classification Dataset - SDSS17 consists of 100,000 observations with 17 features that allows for a stellar object to be classified as a star, galaxy or quasar.
 
+Target variable : the stellar classification ( star, galaxy or quasar)
 
 ## Data
 
