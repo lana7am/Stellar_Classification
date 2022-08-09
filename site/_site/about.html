@@ -76,6 +76,12 @@ ul.task-list{list-style: none;}
     <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./KNN_and_XGB.html">KNN &amp; XGB</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./LogisticRegression.html">LogisticRegression</a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page">About</a>
   </li>  
 </ul>
@@ -89,7 +95,13 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#data" id="toc-data" class="nav-link active" data-scroll-target="#data">Data</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -110,9 +122,109 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>About this site</p>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>the <a href="https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17">Stellar Classification Dataset - SDSS17data</a> was obtained from kaggle</p>
+<p>the dataset has the following attributes</p>
+<table class="table">
+<colgroup>
+<col style="width: 2%">
+<col style="width: 7%">
+<col style="width: 89%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>column</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>obj_ID</td>
+<td>Object Identifier, the unique value that identifies the object in the image catalog used by the CAS</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>alpha</td>
+<td>Right Ascension angle (at J2000 epoch)</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>delta</td>
+<td>Declination angle (at J2000 epoch)</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>u</td>
+<td>Ultraviolet filter in the photometric system</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>g</td>
+<td>Green filter in the photometric system</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>r</td>
+<td>Red filter in the photometric system</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>i</td>
+<td>Near Infrared filter in the photometric system</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>z</td>
+<td>Infrared filter in the photometric system</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>run_ID</td>
+<td>Run Number used to identify the specific scan</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>rereun_ID</td>
+<td>Rerun Number to specify how the image was processed</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>cam_col</td>
+<td>Camera column to identify the scanline within the run</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>field_ID</td>
+<td>Field number to identify each field</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>spec_obj_ID</td>
+<td>Unique ID used for optical spectroscopic objects (this means that 2 different observations with the same spec_obj_ID must share the output class)</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>class</td>
+<td>object class (galaxy, star or quasar object)</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>redshift</td>
+<td>redshift value based on the increase in wavelength</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>plate</td>
+<td>plate ID, identifies each plate in SDSS</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
