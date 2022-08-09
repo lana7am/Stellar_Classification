@@ -34,9 +34,9 @@ the dataset has the following attributes
 ## Team members
 
 
-[Ahmed Almohammed](https://github.com/SWE-Ahmed)
-[Turki Alsaedi](https://github.com/Turkinass)
-[Sultan Alkadhi](https://github.com/salkadhi)
-[Salman Al-Harbi](https://github.com/Salma7577)
-[Ammar Alfaifi](https://github.com/ammar-faifi)
+[Ahmed Almohammed](https://github.com/SWE-Ahmed)<br />
+[Turki Alsaedi](https://github.com/Turkinass)<br />
+[Sultan Alkadhi](https://github.com/salkadhi)<br />
+[Salman Al-Harbi](https://github.com/Salma7577)<br />
+[Ammar Alfaifi](https://github.com/ammar-faifi)<br />
 Lana almorabah
