@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - KNN_and_XGB.ipynb
+      - LogisticRegression.ipynb
       - about.qmd
 
 format:
