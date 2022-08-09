@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Stellar Classification",
+    "section": "Data",
+    "text": "Data\nthe Stellar Classification Dataset - SDSS17data was obtained from kaggle\nthe dataset has the following attributes\n\n\n\n\n\n\n\n\n\ncolumn\ndescription\n\n\n\n\n1\nobj_ID\nObject Identifier, the unique value that identifies the object in the image catalog used by the CAS\n\n\n2\nalpha\nRight Ascension angle (at J2000 epoch)\n\n\n3\ndelta\nDeclination angle (at J2000 epoch)\n\n\n4\nu\nUltraviolet filter in the photometric system\n\n\n5\ng\nGreen filter in the photometric system\n\n\n6\nr\nRed filter in the photometric system\n\n\n7\ni\nNear Infrared filter in the photometric system\n\n\n8\nz\nInfrared filter in the photometric system\n\n\n9\nrun_ID\nRun Number used to identify the specific scan\n\n\n10\nrereun_ID\nRerun Number to specify how the image was processed\n\n\n11\ncam_col\nCamera column to identify the scanline within the run\n\n\n12\nfield_ID\nField number to identify each field\n\n\n13\nspec_obj_ID\nUnique ID used for optical spectroscopic objects (this means that 2 different observations with the same spec_obj_ID must share the output class)\n\n\n14\nclass\nobject class (galaxy, star or quasar object)\n\n\n15\nredshift\nredshift value based on the increase in wavelength\n\n\n16\nplate\nplate ID, identifies each plate in SDSS"
+  },
+  {
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "Stellar Classification",
+    "section": "Team members",
+    "text": "Team members\nAhmed Almohammed Turki Alsaedi Sultan Alkadhi Salman Al-Harbi Ammar Alfaifi Lana almorabah"
   }
 ]
