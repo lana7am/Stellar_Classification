@@ -7,9 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - KNN_and_XGB.ipynb
-      - LogisticRegression.ipynb
-      - Decision_Tree_automl.ipynb
+      - models/featureEngineering.ipynb
+      - models/Random_forest.ipynb
+      - models/Decision_Tree_automl.ipynb
+      - models/LogisticRegression.ipynb
+      - models/KNN_and_XGB.ipynb
+      - models/svm-model.ipynb
       - about.qmd
 
 format:
