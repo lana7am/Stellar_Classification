@@ -9,16 +9,12 @@ website:
         text: Home
       - KNN_and_XGB.ipynb
       - LogisticRegression.ipynb
+      - Decision_Tree_automl.ipynb
       - about.qmd
 
 format:
   html:
-    theme:
-      dark: solar
-      light: flatly
+    theme: Journal
     css: styles.css
     toc: true
     # mainfont: serif
-
-
-

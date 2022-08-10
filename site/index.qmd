@@ -15,4 +15,5 @@ Target variable : the stellar classification ( star, galaxy or quasar)
 [Sultan Alkadhi](https://github.com/salkadhi)<br />
 [Salman Al-Harbi](https://github.com/Salma7577)<br />
 [Ammar Alfaifi](https://github.com/ammar-faifi)<br />
-Lana almorabah
+[Lana almorabah](https://github.com/lana7am)<br />
+
