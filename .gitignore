@@ -230,3 +230,9 @@ cython_debug/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,macos,jupyternotebooks
+
+
+# Quarto
+
+/.quarto/
+/_site/
