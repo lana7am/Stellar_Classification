@@ -1,9 +1,6 @@
 # Stellar Classification
 
 
-## Background
-
-
 ## Data
 
 the [Stellar Classification Dataset - SDSS17data](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) was obtained from kaggle
