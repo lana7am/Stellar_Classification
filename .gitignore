@@ -234,5 +234,5 @@ cython_debug/
 
 # Quarto
 
-/.quarto/
-/_site/
+site/.quarto/
+site/_site/
