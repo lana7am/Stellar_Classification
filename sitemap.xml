@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/models/Decision_Tree_automl.html</loc>
+    <lastmod>2022-08-10T06:38:03.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/models/LogisticRegression.html</loc>
+    <lastmod>2022-08-10T06:38:04.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/models/KNN_and_XGB.html</loc>
+    <lastmod>2022-08-10T06:38:04.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/models/svm-model.html</loc>
+    <lastmod>2022-08-10T06:38:05.490Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/models/Random_forest.html</loc>
+    <lastmod>2022-08-10T06:38:05.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/models/featureEngineering.html</loc>
+    <lastmod>2022-08-10T06:38:06.410Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/about.html</loc>
+    <lastmod>2022-08-10T06:38:06.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ammar-faifi.github.io/Stellar_Classification/index.html</loc>
+    <lastmod>2022-08-10T06:38:07.050Z</lastmod>
+  </url>
+</urlset>
